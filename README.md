@@ -1,4 +1,4 @@
-## Hi, I'm Clement Okoro — Principal SRE & Infrastructure Architect
+## Hi, I'm Clement Okoro - Principal SRE & Infrastructure Architect
 
 I design and operate production-grade Kubernetes platforms on AWS with a focus on
 observability, GitOps, high availability, and security compliance.
@@ -8,7 +8,7 @@ observability, GitOps, high availability, and security compliance.
 ### 🏗️ What I'm Currently Running
 
 A **4-node Kubernetes cluster on AWS** (Amazon Linux, Kubernetes v1.29) managed end-to-end
-via GitOps — 14 applications deployed and monitored across 4 isolated environments
+via GitOps - 14 applications deployed and monitored across 4 isolated environments
 (dev / qa / staging / production).
 
 | Layer | Technology |
@@ -29,8 +29,8 @@ via GitOps — 14 applications deployed and monitored across 4 isolated environm
 
 | Repository | Description |
 |---|---|
-| [**sre-lab-infra**](https://github.com/clementokoro/sre-lab-infra) | Kubernetes GitOps control plane — ArgoCD manifests, Helm values, App-of-Apps |
-| [**gallery-api**](https://github.com/clementokoro/gallery-api) | Go REST API with OpenTelemetry instrumentation — the production-grade workload |
+| [**sre-lab-infra**](https://github.com/clementokoro/sre-lab-infra) | Kubernetes GitOps control plane - ArgoCD manifests, Helm values, App-of-Apps |
+| [**gallery-api**](https://github.com/clementokoro/gallery-api) | Go REST API with OpenTelemetry instrumentation - the production-grade workload |
 | [**sre-runbooks**](https://github.com/clementokoro/sre-runbooks) | Incident post-mortems, runbooks, chaos experiment reports |
 
 ---
